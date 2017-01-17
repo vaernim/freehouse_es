@@ -1,0 +1,5 @@
+/*SECTION CONTACTO*/
+
+#contact a, a:active{ color: #626262; text-decoration: none !important; }
+#contact a:hover, a:focus{ color: #F3911C;  text-decoration: none !important;}
+#contact a:focus {outline: none !important; }
